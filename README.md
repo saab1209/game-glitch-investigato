@@ -91,4 +91,4 @@ tests/test_game_logic.py ...............                                        
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, describe the Enhanced UI changes here — a screenshot is optional]
+- [ ] [If you choose to complete Challenge 4, describe the Enhanced UI changes here — a screenshot is optional] .
